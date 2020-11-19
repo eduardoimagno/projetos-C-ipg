@@ -2,7 +2,6 @@
 
 int main(){
       int data, ano, mes,dia;
-      char mesex;
 
       printf("Escreva a data no formato ddmmaaaa: ");
       scanf("%d",&data);
